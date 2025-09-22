@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there!<br><br>I'm Javier Carrillo, a CS Student with a passion for problem solving. <br>I'm currently working on expanding my project portfolio and always <br>looking for opportunities to collaborate on anything technical.
-
+Hi there!<br><br>I'm Javier Carrillo, a CS Student with a passion for problem solving.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jcarrilloz) 
